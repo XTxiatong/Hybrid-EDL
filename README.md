@@ -31,7 +31,7 @@ sh run.sh
 This is equivalent to 
 
 ```
-python run.py --name cifar10_vgg_HeavyImbalance --seed 100`
+python run.py --name cifar10_vgg_HeavyImbalance --seed 100 
 ```
 
 
