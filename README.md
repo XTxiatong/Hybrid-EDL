@@ -1,4 +1,4 @@
-# Hybrid-EDL: Improving Evidential Deep Learning for Imbalanced Data
+# Hybrid-EDL
 
 This repository includes the code to reproduce our experiments in the paper entitled
 
